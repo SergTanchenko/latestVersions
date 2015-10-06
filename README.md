@@ -1,0 +1,1 @@
+Take versions of artifacts (modules of application) from Nexus and show it
