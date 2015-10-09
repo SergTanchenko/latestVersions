@@ -1,1 +1,6 @@
-Take versions of artifacts (modules of application) from Nexus and show it
+### Node
+
+```sh
+npm install
+node server.js
+```

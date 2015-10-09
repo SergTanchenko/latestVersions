@@ -1,0 +1,393 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 723,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"set",
+				"Set Syntax: TypeScript"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/sergii/github/latestVersions"
+	],
+	"file_history":
+	[
+		"/home/sergii/Desktop/Bug report template",
+		"/home/sergii/Desktop/config",
+		"/etc/hosts",
+		"/home/sergii/Desktop/platform_install_tests.sh",
+		"/home/sergii/github/latestVersions/bundle.js",
+		"/home/sergii/github/latestVersions/index.html",
+		"/home/sergii/github/latestVersions/main.js",
+		"/home/sergii/Desktop/initBranch.sh",
+		"/work/info/apps/sqi-solr-indexing-app/pom.xml",
+		"/home/sergii/Downloads/logs.txt",
+		"/home/sergii/Downloads/quote-solr-indexing-fromscratch.log",
+		"/home/sergii/workspace/fox/plugins/corporateactions/initBranch.sh",
+		"//sftp",
+		"/home/sergii/.m2/settings.xml",
+		"/home/sergii/sandbox_start.sh",
+		"/home/sergii/Downloads/export.sql",
+		"/home/sergii/workspace/fox/platform/environment/resin4/sftp",
+		"/home/sergii/workspace/fox/platform/environment/resin4/conf/resin-demo.xml",
+		"/home/sergii/workspace/fox/platform/environment/conf/SQ/it-config/sqi-web-fox/application-id.properties",
+		"/tmp/thg.odLdY9/pricealert.2.754/automation/src/test/java/com/swissquote/bank/selenium/price_alert/test/PPA10/PPA10TC7.java",
+		"/home/sergii/workspace/fox/plugins/search/client-impl/pom.xml.orig",
+		"/work/fox/devops/environment/resin4/conf/resin-demo.xml",
+		"/home/sergii/workspace/fox/platform/environment/resin4/conf/deploy/sqi_fox/WEB-INF/web.xml",
+		"/home/sergii/github/fabiola/routes/index.js.map",
+		"/home/sergii/Desktop/fox_config",
+		"/home/sergii/workspace/fox/platform/screenshots/testWidgetsPresenceInAddWidgetsMenu_13:31:53,989.jpg",
+		"/home/sergii/workspace/fox/platform/screenshots/testWidgetsPresenceInAddWidgetsMenu_13:31:39,674.jpg",
+		"/home/sergii/workspace/fox/platform/screenshots/testMailboxPage_13:32:14,220.jpg",
+		"/home/sergii/workspace/fox/platform/screenshots/testOrderHistoryPage_13:32:40,355.jpg",
+		"/home/sergii/workspace/fox/platform/screenshots/testTransactionsPage_13:32:45,145.jpg",
+		"/home/sergii/workspace/fox/platform/integration-tests/screenshots/testWidgetsPresenceInAddWidgetsMenu_15:53:56,175.jpg",
+		"/home/sergii/workspace/fox/platform/integration-tests/screenshots/testWidgetsPresenceInAddWidgetsMenu_15:53:43,166.jpg",
+		"/home/sergii/workspace/fox/platform/integration-tests/screenshots/testWidgetsPresenceInAddWidgetsMenu_15:47:06,794.jpg",
+		"/home/sergii/workspace/fox/platform/integration-tests/screenshots/testWidgetsPresenceInAddWidgetsMenu_15:46:54,627.jpg",
+		"/home/sergii/workspace/fox/platform/integration-tests/screenshots/testTransactionsPage_15:47:50,184.jpg",
+		"/home/sergii/workspace/fox/platform/integration-tests/screenshots/testPlaceOrder_17:58:44,053.jpg",
+		"/home/sergii/workspace/fox/platform/integration-tests/screenshots/testPlaceOrder_17:58:05,782.jpg",
+		"/home/sergii/workspace/fox/platform/integration-tests/screenshots/testPlaceOrder_17:50:50,567.jpg",
+		"/home/sergii/workspace/fox/platform/integration-tests/screenshots/testMailboxPage_15:54:13,370.jpg",
+		"/home/sergii/workspace/fox/platform/integration-tests/screenshots/testPlaceOrder_17:47:58,480.jpg",
+		"/home/sergii/workspace/fox/platform/integration-tests/screenshots/testPlaceNyseShare_19:32:24,135.jpg",
+		"/home/sergii/workspace/fox/platform/integration-tests/screenshots/testPlaceNorwayShare_19:32:09,009.jpg",
+		"/home/sergii/workspace/fox/platform/integration-tests/screenshots/testPlaceNorwayShare_09:59:16,259.jpg",
+		"/home/sergii/workspace/fox/platform/integration-tests/screenshots/testOrderHistoryPage_15:47:45,878.jpg",
+		"/home/sergii/workspace/fox/platform/integration-tests/screenshots/testMailboxPage_15:47:25,139.jpg",
+		"/home/sergii/workspace/fox/platform/integration-tests/screenshots/testInlineSearch_15:17:41,054.jpg",
+		"/home/sergii/workspace/fox/platform/integration-tests/screenshots/testInlineSearch_13:55:48,929.jpg",
+		"/home/sergii/workspace/fox/platform/integration-tests/screenshots/addNewAnalyseItWidget_15:54:42,252.jpg",
+		"/home/sergii/workspace/fox/platform/integration-tests/screenshots/addNewAnalyseItWidget_15:48:18,871.jpg",
+		"/home/sergii/github/fabiola/public/js/scripts.js",
+		"/home/sergii/workspace/fox/platform/environment/resin4/resin.ksh",
+		"/home/sergii/workspace/fox/platform/integration-tests/pom.xml",
+		"/logs/SQI/web-logs/resin-fox-uat-stdout.log",
+		"/home/sergii/workspace/fox/plugins/plugin-development/platform/conf/resin4/resin.xml",
+		"/home/sergii/github/fabiola/views/index.jade",
+		"/home/sergii/Desktop/example.js",
+		"/home/sergii/Desktop/example.ts",
+		"/home/sergii/Desktop/Email list",
+		"/home/sergii/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/sergii/sandbox_stop.sh",
+		"/home/sergii/workspace/web/sqw-theme-bank/pom.xml",
+		"/tmp/thg.dmZsq8/platform.5.18145/server-war/pom.xml",
+		"/work/foundation/sq-code-analysis/src/main/bash/hg-hooks/pretxnchangegroup-enforce-formatting.sh",
+		"/work/foundation/sq-sandbox/devops/cookbooks/sq-sandbox/recipes/solr-v2.rb",
+		"/softwares/SQ/resources/sqi-config/config.properties",
+		"/home/sergii/workspace/foundation/sq-sandbox/devops/cookbooks/sq-sandbox/recipes/oracle-scripts-dml.rb",
+		"/home/sergii/workspace/foundation/sq-sandbox/devops/cookbooks/sq-sandbox/recipes/oracle-scripts.rb",
+		"/home/sergii/workspace/info/tests/fox-widgets/search-it/src/test/resin4/conf/authent.xml",
+		"/home/sergii/workspace/info/tests/fox-widgets/search-it/src/test/resin4/conf/resin.xml",
+		"/tmp/thg.jw1Bg8/sqw-theme-bank.2.4828/pom.xml",
+		"/home/sergii/Desktop/deploy_heme_bank.sh",
+		"/home/sergii/Desktop/deploy_search.sh",
+		"/home/sergii/Desktop/grayImage.html",
+		"/home/sergii/workspace/foundation/sq-sandbox/dev-maven-plugin/pom.xml",
+		"/work/info/tests/fox-widgets/search-it/target/pmd.xml",
+		"/work/info/tests/fox-widgets/search-it/target/site/pmd.html",
+		"/home/sergii/Documents/New column formatting rules for the table of resul",
+		"/home/sergii/SergTanchenko.github.io/index.html",
+		"/home/sergii/workspace/foundation/sq-sandbox/devops/cookbooks/sq-sandbox/templates/default/hosts-location-kiev.erb",
+		"/logs/SQ/web-logs/resin-fox-uat-stderr.log",
+		"/home/sergii/workspace/foundation/sq-sandbox/devops/cookbooks/sq-sandbox/templates/default/hosts.erb",
+		"/home/sergii/workspace/fox/platform/server-war/fox_init.json",
+		"/home/sergii/workspace/foundation/sq-sandbox/devops/cookbooks/sq-sandbox/recipes/oracle-scripts-ddl.rb",
+		"/home/sergii/workspace/foundation/sq-sandbox/devops/cookbooks/sq-sandbox/files/default/oracle-scripts/ddl/schema_update.sql",
+		"/home/sergii/workspace/foundation/sq-sandbox/devops/cookbooks/sq-sandbox/files/default/oracle-scripts/ddl/delay.sql",
+		"/home/sergii/workspace/foundation/sq-sandbox/devops/cookbooks/sq-sandbox/files/default/oracle-scripts/dml/fox/delay.pst-30.sql",
+		"/home/sergii/workspace/foundation/sq-sandbox/devops/cookbooks/sq-sandbox/files/default/oracle-scripts/dml/fox/delay.pst-580.sql",
+		"/home/sergii/workspace/foundation/sq-sandbox/devops/cookbooks/sq-sandbox/files/default/oracle-scripts/dml/fox/out.delay.sql",
+		"/home/sergii/workspace/fox/platform/server-war/fox_start.json",
+		"/home/sergii/workspace/foundation/sq-sandbox/devops/cookbooks/sq-sandbox/recipes/oracle-manual-sql-project.rb",
+		"/home/sergii/workspace/foundation/sq-sandbox/devops/cookbooks/sq-sandbox/files/default/oracle-scripts/dml/fox/out.delay.manual.sql",
+		"/home/sergii/workspace/foundation/sq-sandbox/devops/cookbooks/sq-sandbox/recipes/oracle-scripts-dml-v2.rb",
+		"/home/sergii/workspace/foundation/sq-sandbox/devops/cookbooks/sq-sandbox/files/default/oracle-scripts/dml/fox/realtime.pst-477.sql",
+		"/home/sergii/workspace/foundation/sq-sandbox/devops/cookbooks/sq-sandbox/files/default/oracle-scripts/dml/fox/realtime.pst-245.sql",
+		"/home/sergii/workspace/fox/platform/server-war/delete_images.sh",
+		"/home/sergii/clean_fox_images.sh",
+		"/home/sergii/workspace/foundation/sq-sandbox/devops/cookbooks/sq-sandbox/files/default/oracle-scripts/dml/fox/out.bank.manual.sql",
+		"/home/sergii/workspace/fox/plugins/plugin-development/platform/scripts/resin4/resin.ksh",
+		"/logs/SQ/web-logs/resin-fox-uat-stdout.log",
+		"/home/sergii/Desktop/fox_error",
+		"/logs/SQ/web-logs/fox-search-plugin.stdout.log",
+		"/home/sergii/workspace/info/tests/fox-widgets/search-it/target/work/conf/it-config/sqi-web-fox/sqi-trading-quote-services-v1.properties",
+		"/home/sergii/workspace/info/tests/fox-widgets/search-it/target/work/conf/it-config/sqi-web-services/sqi-trading-quote-services-v1.properties",
+		"/home/sergii/workspace/info/tests/fox-widgets/search-it/target/work/conf/it-config/sqi-web-services/environment.properties",
+		"/home/sergii/workspace/info/tests/fox-widgets/search-it/src/test/resin4/conf/it-config/sqi-web-fox/plugins-url-mappings.properties",
+		"/home/sergii/workspace/info/tests/fox-widgets/search-it/src/test/resin4/conf/it-config/sqi-web-fox/sqb-global-messages-service-v1.properties",
+		"/home/sergii/workspace/info/tests/fox-widgets/search-it/target/work/conf/it-config/sqi-web-fox/plugins-url-mappings.properties",
+		"/home/sergii/Downloads/funds-filter-i18n.txt",
+		"/tmp/thg.Okbucn/plugin-development.1.19/platform/scripts/resin4/resin.ksh",
+		"/home/sergii/workspace/fox/plugins/plugin-development/platform/conf/it-config/sqi-web-fox/plugins-url-mappings.properties",
+		"/home/sergii/workspace/fox/plugins/plugin-development/platform/work/conf/it-config/sqi-web-fox/plugins-url-mappings.properties",
+		"/logs/SQF/web-logs/sqi-search-widget.stdout.log",
+		"/logs/SQF/web-logs/resin-fox-uat-stdout.log",
+		"/tmp/thg.tH2du5/plugin-development.0.17/platform/scripts/resin4/resin.ksh",
+		"/home/sergii/workspace/info/tests/fox-widgets/search-it/pom.xml",
+		"/home/sergii/workspace/web/sqw-theme-bank/deploy/deploy.xml",
+		"/home/sergii/workspace/fox/platform/server-war/pom.xml",
+		"/home/sergii/workspace/fox/platform/pom.xml",
+		"/home/sergii/workspace/fox/plugins/search/deploy.sh",
+		"/home/sergii/workspace/fox/platform/environment/conf/SQ/it_config/sqi-web-fox/plugins-url-mappings.properties",
+		"/work/fox/plugins/plugin-development/platform/conf/resin4/resin.xml",
+		"/work/fox/plugins/plugin-development/platform/scripts/resin4/resin.ksh",
+		"/work/fox/plugins/plugin-development/platform/conf/it-config/sqi-web-fox/plugins-url-mappings.properties",
+		"/home/sergii/workspace/fox/plugins/search/pom.xml",
+		"/home/sergii/workspace/fox/platform/environment/resin4/conf/server-war.xml",
+		"/home/sergii/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/work/fox/plugins/plugin-development/platform/conf/resin4/datasources.xml",
+		"/work/fox/plugins/plugin-development/platform/conf/resin4/authent.xml"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			" (?=-D)",
+			"SNAPSHOT",
+			"(?!-D)",
+			"(?=-D)",
+			"(?-D)",
+			" (?!(\\-D))",
+			"(?<= )-D",
+			"(?<=-)D",
+			"(?<=-D)",
+			"(?<=a)-D",
+			"SNAPSHOT",
+			"ch",
+			"159901",
+			"TO_DATE\n(...)\n,",
+			"159901",
+			" TO_DATE\n(...)\n,",
+			"Resin",
+			"(?<=;)\\s",
+			"--",
+			"grig",
+			"<td",
+			"\"",
+			"\\t",
+			"log",
+			"SCREENER_ETFS",
+			".snap",
+			"snap",
+			" -",
+			" \n",
+			"reflect",
+			"SQ/res",
+			"sqi-trading-quote-services-v1",
+			"ln -s",
+			"sqw-theme",
+			"theme-bank",
+			"163",
+			"JAVA_ARGS",
+			"PLUGIN_SNAPSHOT_PARAM",
+			"sq.webap",
+			"sq.webapp.logdir",
+			"plugin",
+			"insert into FOX_AUTHORIZED_PRODUCTS",
+			"Chef::ShellOut",
+			"Chef",
+			"CREATE TABLE",
+			"trademask",
+			"\\[2015-.*\\] WARN:",
+			"\\[2015-.*\\] INFO:",
+			"\\[2015-.*\\]"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"DATE",
+			"\\n<td",
+			"'",
+			"WARN:",
+			"INFO:"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "package.json",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 723,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "latestVersions.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 151.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
